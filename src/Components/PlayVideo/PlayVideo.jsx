@@ -89,4 +89,4 @@ const PlayVideo = () => {
   )
 }
 
-export default PlayVideo
+export default PlayVideo;
